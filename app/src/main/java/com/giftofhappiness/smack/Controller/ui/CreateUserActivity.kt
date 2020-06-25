@@ -1,10 +1,10 @@
-package com.giftofhappiness.smack
+package com.giftofhappiness.smack.Controller.ui
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.TextView
+import com.giftofhappiness.smack.R
 import kotlinx.android.synthetic.main.activity_create_user.*
 import java.util.*
 

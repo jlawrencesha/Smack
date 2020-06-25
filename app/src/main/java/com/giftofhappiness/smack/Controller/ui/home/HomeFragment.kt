@@ -1,4 +1,4 @@
-package com.giftofhappiness.smack.ui.home
+package com.giftofhappiness.smack.Controller.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater

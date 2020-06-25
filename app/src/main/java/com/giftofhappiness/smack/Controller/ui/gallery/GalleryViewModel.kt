@@ -1,4 +1,4 @@
-package com.giftofhappiness.smack.ui.gallery
+package com.giftofhappiness.smack.Controller.ui.gallery
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

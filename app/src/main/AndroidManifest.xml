@@ -8,10 +8,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CreateUserActivity"></activity>
-        <activity android:name=".LoginActivity" />
+        <activity android:name=".Controller.ui.CreateUserActivity"></activity>
+        <activity android:name=".Controller.ui.LoginActivity" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Controller.ui.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
